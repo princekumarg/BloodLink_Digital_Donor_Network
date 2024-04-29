@@ -24,7 +24,7 @@ const AboutDonation = () => {
                             <img src={e.img} draggable={false} width="100%" alt="" />
                             <div className='m-4'>
                                 <h1 className='font-bold text-lg text-midnight'>{i + 1} - {e.title}</h1>
-                                <p className='text-justify'>Lorem ipsum dolor, sit amet consectetur qwey adipisicing elit. Doloribus, as aliquam corporis dolorem consectetur qui libero, veritatis, nihil alias repellat quam architecto nobis laudantium ipsum nemo nesciunt quisquam est odit ad?</p>
+                                <p className='text-justify'>Register on Dontian with name, email, password. Login to search for donors. Find a match, contact, and schedule donation. Donor provides blood, potentially saving a life. Both donor and recipient benefit from Dontian's life-saving platform</p>
                             </div>
                         </div>
                     )}
