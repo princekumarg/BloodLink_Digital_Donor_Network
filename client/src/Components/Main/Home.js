@@ -75,7 +75,8 @@ const Home = () => {
                         <div><img src={e.img} draggable={false} width="100%" alt="" /></div>
                         <div className='m-4'>
                             <h1 className='font-bold text-lg text-midnight dark:text-white-900'>{i + 1} - {e.title}</h1>
-                            <p className='text-justify'>Lorem ipsum dolor, sit amet consectetur qwey adipisicing elit. Doloribus, as aliquam corporis dolorem consectetur qui libero, veritatis, nihil alias repellat quam architecto nobis laudantium ipsum nemo nesciunt quisquam est odit ad?</p>
+                            <p className='text-justify'>
+Our web application revolutionizes blood bank management, enhancing efficiency in inventory, donor registration, and distribution. From registration to collection, it streamlines the blood donation process, also fostering improved communication between blood banks and donors for future enhancements.</p>
                         </div>
                     </div>
                 )}
